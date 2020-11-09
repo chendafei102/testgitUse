@@ -1,3 +1,4 @@
 Git is a version control system.
 Git is free software. 版本回退
 暂存区测试
+暂存区-----add1
